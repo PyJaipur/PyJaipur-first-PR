@@ -1,0 +1,27 @@
+PyJaipur
+
+PyJaipur is local user group for Jaipur, India people. PyJaipur was founded by Shivank Gautam and they conducted their first Monthly Meetup on June-17 2018. We mostly include students and professional who loves to code in Python. We believe in endorsing Python and OSS/FOSS. below is the list of some notable contributors to the community.
+
+Shivank Gautam, Founder
+
+Pratul Kumar, Co-Organizer
+
+Aakanksha Jain, Community Leader
+
+Shashank Tiwari, Graphics Guy
+
+Kirti Bajaj, Social media Head
+
+Yajushi Srivastava
+
+Anuj Sharma
+
+Moulik aggarwal
+
+Mayank Devani
+
+Prashant
+
+Prayas Mittal, Guy who developed Super Cool PyJaipur Website
+
+Akshay, Guy who designed Super Cool PyJaipur Logo
